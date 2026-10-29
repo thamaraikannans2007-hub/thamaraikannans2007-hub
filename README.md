@@ -171,12 +171,21 @@
 
 <div align="center">
 
-<a href="https://github.com/thamaraikannans2007-hub?tab=stars"><img src="https://img.shields.io/badge/⭐%20My%20Stars-Explore%20Starred%20Repos-6D28D9?style=for-the-badge" alt="Explore starred repositories"/></a>
-<a href="https://github.com/thamaraikannans2007-hub?tab=repositories"><img src="https://img.shields.io/github/stars/thamaraikannans2007-hub/thamaraikannans2007-hub?style=for-the-badge&label=Profile%20Repo%20Stars&color=6D28D9" alt="Profile repository stars"/></a>
-<a href="https://github.com/thamaraikannans2007-hub/Sovereign-Agent-AI/stargazers"><img src="https://img.shields.io/github/stars/thamaraikannans2007-hub/Sovereign-Agent-AI?style=for-the-badge&label=Sovereign%20Agent%20AI&color=4C1D95" alt="Sovereign Agent AI stars"/></a>
-<a href="https://github.com/thamaraikannans2007-hub/marinex-marine-mission-intelligence/stargazers"><img src="https://img.shields.io/github/stars/thamaraikannans2007-hub/marinex-marine-mission-intelligence?style=for-the-badge&label=MARINEX&color=4C1D95" alt="MARINEX stars"/></a>
+<a href="https://github.com/thamaraikannans2007-hub?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://github.com/thamaraikannans2007-hub?tab=stars"><img src="https://img.shields.io/badge/Explore-My%20Starred%20Repos-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred repositories"/></a>
+<a href="https://img.shields.io/github/stars/thamaraikannans2007-hub/thamaraikannans2007-hub"><img src="https://img.shields.io/github/stars/thamaraikannans2007-hub/thamaraikannans2007-hub?style=for-the-badge&label=Profile%20README%20Stars&color=6D28D9" alt="Live profile README star count"/></a>
 
 </div>
+
+### Live Repository Stats
+
+| Project | Stars | Forks |
+|---|---|---|
+| [Sovereign Agent AI](https://github.com/thamaraikannans2007-hub/Sovereign-Agent-AI) | [![Stars](https://img.shields.io/github/stars/thamaraikannans2007-hub/Sovereign-Agent-AI?style=flat-square&color=6D28D9)](https://github.com/thamaraikannans2007-hub/Sovereign-Agent-AI/stargazers) | [![Forks](https://img.shields.io/github/forks/thamaraikannans2007-hub/Sovereign-Agent-AI?style=flat-square&color=4C1D95)](https://github.com/thamaraikannans2007-hub/Sovereign-Agent-AI/forks) |
+| [MARINEX](https://github.com/thamaraikannans2007-hub/marinex-marine-mission-intelligence) | [![Stars](https://img.shields.io/github/stars/thamaraikannans2007-hub/marinex-marine-mission-intelligence?style=flat-square&color=6D28D9)](https://github.com/thamaraikannans2007-hub/marinex-marine-mission-intelligence/stargazers) | [![Forks](https://img.shields.io/github/forks/thamaraikannans2007-hub/marinex-marine-mission-intelligence?style=flat-square&color=4C1D95)](https://github.com/thamaraikannans2007-hub/marinex-marine-mission-intelligence/forks) |
+| [A* Recommendation](https://github.com/thamaraikannans2007-hub/astar_algorithm_recommendation) | [![Stars](https://img.shields.io/github/stars/thamaraikannans2007-hub/astar_algorithm_recommendation?style=flat-square&color=6D28D9)](https://github.com/thamaraikannans2007-hub/astar_algorithm_recommendation/stargazers) | [![Forks](https://img.shields.io/github/forks/thamaraikannans2007-hub/astar_algorithm_recommendation?style=flat-square&color=4C1D95)](https://github.com/thamaraikannans2007-hub/astar_algorithm_recommendation/forks) |
+| [Student Analytics Dashboard](https://github.com/thamaraikannans2007-hub/Python_Project_Student_Report_Dashboard) | [![Stars](https://img.shields.io/github/stars/thamaraikannans2007-hub/Python_Project_Student_Report_Dashboard?style=flat-square&color=6D28D9)](https://github.com/thamaraikannans2007-hub/Python_Project_Student_Report_Dashboard/stargazers) | [![Forks](https://img.shields.io/github/forks/thamaraikannans2007-hub/Python_Project_Student_Report_Dashboard?style=flat-square&color=4C1D95)](https://github.com/thamaraikannans2007-hub/Python_Project_Student_Report_Dashboard/forks) |
+| [AI Movie Recommendation](https://github.com/thamaraikannans2007-hub/project-ai-recomennded-) | [![Stars](https://img.shields.io/github/stars/thamaraikannans2007-hub/project-ai-recomennded-?style=flat-square&color=6D28D9)](https://github.com/thamaraikannans2007-hub/project-ai-recomennded-/stargazers) | [![Forks](https://img.shields.io/github/forks/thamaraikannans2007-hub/project-ai-recomennded-?style=flat-square&color=4C1D95)](https://github.com/thamaraikannans2007-hub/project-ai-recomennded-/forks) |
 
 ## 📈 GitHub Status
 
