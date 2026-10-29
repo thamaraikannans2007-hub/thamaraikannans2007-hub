@@ -62,44 +62,97 @@
 
 </div>
 
-## 🗡️ Featured Projects
+## 🚀 My Projects
+
+<div align="center">
+  <p><i>Selected work from my repositories — AI systems, recommendation logic, and practical data applications.</i></p>
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Sovereign Agent AI</h3>
-      <p>On-premise agentic AI workbench concept for confidential industrial workflows, with modular AI adapters, audit trails, role-based access, and sovereignty-focused execution.</p>
-      <a href="https://github.com/thamaraikannans2007-hub/Sovereign-Agent-AI"><img src="https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Sovereign Agent AI repository"/></a>
+      <h3>🛡️ <a href="https://github.com/thamaraikannans2007-hub/Sovereign-Agent-AI">Sovereign Agent AI</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Agentic%20AI-6D28D9?style=flat-square" alt="Agentic AI"/>
+        <img src="https://img.shields.io/badge/On--Premise-29213A?style=flat-square" alt="On premise"/>
+        <img src="https://img.shields.io/badge/Django%20%7C%20Python-092E20?style=flat-square" alt="Django and Python"/>
+      </p>
+      <ul>
+        <li>Explores a self-hosted AI workbench for confidential industrial workflows.</li>
+        <li>Includes modular AI adapters, role-based access, audit logging, and sovereignty-focused execution receipts.</li>
+        <li>Designed around keeping sensitive processing within the organization's infrastructure.</li>
+      </ul>
+      <p><a href="https://github.com/thamaraikannans2007-hub/Sovereign-Agent-AI">View repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌊 MARINEX</h3>
-      <p>Marine mission intelligence and decision-support system exploring oceanographic data, route planning, mission risk evaluation, and map-based operational workflows.</p>
-      <a href="https://github.com/thamaraikannans2007-hub/marinex-marine-mission-intelligence"><img src="https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View MARINEX repository"/></a>
+      <h3>🌊 <a href="https://github.com/thamaraikannans2007-hub/marinex-marine-mission-intelligence">MARINEX: Marine Mission Intelligence</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Decision%20Support-6D28D9?style=flat-square" alt="Decision support"/>
+        <img src="https://img.shields.io/badge/Geospatial-29213A?style=flat-square" alt="Geospatial"/>
+        <img src="https://img.shields.io/badge/React%20%7C%20Django-092E20?style=flat-square" alt="React and Django"/>
+      </p>
+      <ul>
+        <li>Brings marine and oceanographic data into a mission-planning and decision-support workflow.</li>
+        <li>Explores route optimization, mission risk evaluation, and nautical map-based operations.</li>
+        <li>Uses a React/TypeScript frontend with a Django REST backend and spatial data storage.</li>
+      </ul>
+      <p><a href="https://github.com/thamaraikannans2007-hub/marinex-marine-mission-intelligence">View repository ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 A* Recommendation</h3>
-      <p>A graph-search and recommendation project exploring how A* pathfinding concepts can be applied to recommendation logic.</p>
-      <a href="https://github.com/thamaraikannans2007-hub/astar_algorithm_recommendation"><img src="https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View A star recommendation repository"/></a>
+      <h3>🎬 <a href="https://github.com/thamaraikannans2007-hub/astar_algorithm_recommendation">A* Algorithm Recommendation</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Graph%20Search-6D28D9?style=flat-square" alt="Graph search"/>
+        <img src="https://img.shields.io/badge/Algorithms-29213A?style=flat-square" alt="Algorithms"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      </p>
+      <ul>
+        <li>Explores the use of A* search concepts in a recommendation-focused project.</li>
+        <li>Connects algorithmic problem-solving with recommendation logic.</li>
+        <li>See the repository for implementation details and current project status.</li>
+      </ul>
+      <p><a href="https://github.com/thamaraikannans2007-hub/astar_algorithm_recommendation">View repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Student Performance Dashboard</h3>
-      <p>Python analytics project for cleaning student records, analyzing performance and attendance, generating charts, and presenting results in a dashboard.</p>
-      <a href="https://github.com/thamaraikannans2007-hub/Python_Project_Student_Report_Dashboard"><img src="https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View student dashboard repository"/></a>
+      <h3>📊 <a href="https://github.com/thamaraikannans2007-hub/Python_Project_Student_Report_Dashboard">Student Performance Analytics</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      </p>
+      <ul>
+        <li>Cleans student records and handles missing, duplicate, or invalid values.</li>
+        <li>Analyzes marks, attendance, pass/fail summaries, and top-performing students.</li>
+        <li>Generates charts and reports with a Streamlit dashboard and FastAPI backend.</li>
+      </ul>
+      <p><a href="https://github.com/thamaraikannans2007-hub/Python_Project_Student_Report_Dashboard">View repository ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎥 AI Movie Recommendation</h3>
-      <p>Movie recommendation project exploring content-based matching and recommendation workflows.</p>
-      <a href="https://github.com/thamaraikannans2007-hub/project-ai-recomennded-"><img src="https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View movie recommendation repository"/></a>
+      <h3>🎥 <a href="https://github.com/thamaraikannans2007-hub/project-ai-recomennded-">AI Movie Recommendation</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Recommendations-6D28D9?style=flat-square" alt="Recommendations"/>
+        <img src="https://img.shields.io/badge/AI%20Project-29213A?style=flat-square" alt="AI project"/>
+      </p>
+      <ul>
+        <li>A project repository focused on AI-based recommendations.</li>
+        <li>Explore the repository for the current implementation and code.</li>
+      </ul>
+      <p><a href="https://github.com/thamaraikannans2007-hub/project-ai-recomennded-">View repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 Python Learning Repositories</h3>
-      <p>Hands-on Python practice and learning exercises that support my ongoing work in data science and AI.</p>
-      <a href="https://github.com/thamaraikannans2007-hub/python-series"><img src="https://img.shields.io/badge/Python%20Series-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Python series repository"/></a>
-      <a href="https://github.com/thamaraikannans2007-hub/python"><img src="https://img.shields.io/badge/Python%20Practice-29213A?style=for-the-badge&logo=python&logoColor=white" alt="Python practice repository"/></a>
+      <h3>🐍 <a href="https://github.com/thamaraikannans2007-hub/python-series">Python Practice</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Learning%20by%20Building-29213A?style=flat-square" alt="Learning by building"/>
+      </p>
+      <ul>
+        <li>Python learning and practice repositories.</li>
+        <li>Foundational work supporting my continued development in data science and AI.</li>
+      </ul>
+      <p><a href="https://github.com/thamaraikannans2007-hub/python-series">Python series ↗</a> · <a href="https://github.com/thamaraikannans2007-hub/python">Python practice ↗</a></p>
     </td>
   </tr>
 </table>
