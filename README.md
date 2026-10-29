@@ -160,25 +160,26 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thamaraikannans2007-hub&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Explore%20my%20repos-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-29213A?style=for-the-badge" alt="AI and machine learning focus"/>
+<img src="https://img.shields.io/badge/Build-Learn%20%7C%20Ship%20%7C%20Improve-4C1D95?style=for-the-badge" alt="Build learn ship improve"/>
+
 </div>
 
 ## 📈 GitHub Status
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thamaraikannans2007-hub&show_icons=true&hide_border=true&bg_color=0D0A14&title_color=BDA4FF&icon_color=9F7AEA&text_color=EDE4FF&rank_icon=github" alt="GitHub statistics card"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamaraikannans2007-hub&layout=compact&hide_border=true&bg_color=0D0A14&title_color=BDA4FF&text_color=EDE4FF" alt="Most used languages card"/>
+
+<a href="https://github.com/thamaraikannans2007-hub?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"/></a>
+<a href="https://github.com/thamaraikannans2007-hub?tab=stars"><img src="https://img.shields.io/badge/Stars-View%20on%20GitHub-29213A?style=for-the-badge&logo=github&logoColor=white" alt="View stars"/></a>
+<a href="https://github.com/thamaraikannans2007-hub/commits/main"><img src="https://img.shields.io/badge/Activity-View%20Commits-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="View profile repository commits"/></a>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thamaraikannans2007-hub&hide_border=true&background=0D0A14&ring=9F7AEA&fire=C4B5FD&currStreakLabel=BDA4FF&sideLabels=EDE4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B91AC" alt="GitHub contribution streak"/>
-</div>
-
-## 📉 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thamaraikannans2007-hub&bg_color=0D0A14&color=EDE4FF&line=9F7AEA&point=C4B5FD&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</div>
+<p align="center">
+  <i>Live contribution and language cards were removed because their third-party image services were failing to load. Use the links above for accurate, live GitHub data.</i>
+</p>
 
 ## 🧭 More Repositories
 
