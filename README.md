@@ -22,6 +22,7 @@
 <p>
   <a href="https://github.com/thamaraikannans2007-hub?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
   <a href="https://github.com/thamaraikannans2007-hub"><img src="https://img.shields.io/badge/Theme-Shadow%20Monarch-171022?style=for-the-badge&logo=undertale&logoColor=BDA4FF" alt="Shadow Monarch theme"/></a>
+  <img src="https://komarev.com/ghpvc/?username=thamaraikannans2007-hub&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 </div>
@@ -103,6 +104,12 @@
   </tr>
 </table>
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thamaraikannans2007-hub&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies"/>
+</div>
+
 ## 📈 GitHub Status
 
 <div align="center">
@@ -113,6 +120,20 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thamaraikannans2007-hub&hide_border=true&background=0D0A14&ring=9F7AEA&fire=C4B5FD&currStreakLabel=BDA4FF&sideLabels=EDE4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B91AC" alt="GitHub contribution streak"/>
 </div>
+
+## 📉 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thamaraikannans2007-hub&bg_color=0D0A14&color=EDE4FF&line=9F7AEA&point=C4B5FD&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+</div>
+
+## 🧭 More Repositories
+
+| Repository | Focus |
+|---|---|
+| [Sovereign_AI-main](https://github.com/thamaraikannans2007-hub/Sovereign_AI-main) | Another public repository for the sovereign agentic AI workbench |
+| [Project](https://github.com/thamaraikannans2007-hub/Project) | Public project repository |
+| [Project1](https://github.com/thamaraikannans2007-hub/Project1) | Public project repository |
 
 ## 🌱 What I'm Working Toward
 
