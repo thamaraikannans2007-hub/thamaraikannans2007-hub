@@ -167,6 +167,17 @@
 
 </div>
 
+## ⭐ Stars & Open Source
+
+<div align="center">
+
+<a href="https://github.com/thamaraikannans2007-hub?tab=stars"><img src="https://img.shields.io/badge/⭐%20My%20Stars-Explore%20Starred%20Repos-6D28D9?style=for-the-badge" alt="Explore starred repositories"/></a>
+<a href="https://github.com/thamaraikannans2007-hub?tab=repositories"><img src="https://img.shields.io/github/stars/thamaraikannans2007-hub/thamaraikannans2007-hub?style=for-the-badge&label=Profile%20Repo%20Stars&color=6D28D9" alt="Profile repository stars"/></a>
+<a href="https://github.com/thamaraikannans2007-hub/Sovereign-Agent-AI/stargazers"><img src="https://img.shields.io/github/stars/thamaraikannans2007-hub/Sovereign-Agent-AI?style=for-the-badge&label=Sovereign%20Agent%20AI&color=4C1D95" alt="Sovereign Agent AI stars"/></a>
+<a href="https://github.com/thamaraikannans2007-hub/marinex-marine-mission-intelligence/stargazers"><img src="https://img.shields.io/github/stars/thamaraikannans2007-hub/marinex-marine-mission-intelligence?style=for-the-badge&label=MARINEX&color=4C1D95" alt="MARINEX stars"/></a>
+
+</div>
+
 ## 📈 GitHub Status
 
 <div align="center">
